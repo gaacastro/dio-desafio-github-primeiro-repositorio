@@ -1,2 +1,43 @@
+## Git:
+
 Link para download do Git: https://git-scm.com/downloads
-O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+- GIT → CLI (GUI x CLI)
+
+- cls → limpar o prompt
+
+- Chave SSH → estabelece uma conexão segura e encriptada entre duas máquinas
+
+- O Git Bash é um terminal extendido para otimizar o uso do Git
+
+- ctrl + l → limpar a tela git bash
+
+- GIT INIT → estamos criando um repositório dentro da pasta
+
+- commit → objeto chave do GIT
+
+- cd → “change directory”, exibe o nome do diretório atual ou altera o diretório atual
+
+- dir → exibe uma lista de arquivos e subdiretórios de um diretório
+
+- mkdir → cria um diretório ou subdiretório
+
+- del/rmdir → exclui um ou mais arquivos
+
+- SHA → “secure hash algorithm”, conjunto de funções hash criptográficas projetadas pela NSA
+
+- A encriptação gera conjunto de caracteres identificador de 40 dígitos
+
+- Echo → forma curta de representar um arquivo
+
+- Blobs / Trees / Commits
+
+- Markdown → é uma linguagem simples de marcação que converte seu texto em HTML válido (typora - programa)
+
+- Estágios: Untracked e Tracked (Unmodified / Modified / Staged)
+
+## Ordem repositório Git/GitHub:
+
+1. git add .
+2. git commit -m “mensagem”
+3. git push origin main
